@@ -3,6 +3,15 @@ Gharge, Sandesh, 00821875
 Thesis Title - Automatic Source Code Analysis
 
 # AutomaticSourceCodeAnalysis
+Desktop Application designed specifically to get overview of any project which includes 
+
+--Number of files
+
+--Number of lines
+
+--Number of code
+
+--Number of comments
 
 ## Project Start *subcheck*
 
@@ -47,8 +56,8 @@ analyserWindow.py is dialog that opens for evaluation of a project, by default i
 
 ## How to run
 
-1. Dowload sample zip file from git
-Sample Link - https://mygit.th-deg.de/sg27875/automaticsourcecodeanalysis/-/archive/main/automaticsourcecodeanalysis-main.zip
+1. Dowload or clone project from git
+Sample Link - https://github.com/sandeshgharge/thesis-automaticSourceCodeAnalysis
 
 2. Run the application using main.py
 
@@ -58,8 +67,5 @@ Sample Link - https://mygit.th-deg.de/sg27875/automaticsourcecodeanalysis/-/arch
 
 # 1. Code Repository
 
-https://mygit.th-deg.de/sg27875/automaticsourcecodeanalysis
+https://github.com/sandeshgharge/thesis-automaticSourceCodeAnalysis
 
-# 2. Latex Report Repository
-
-https://mygit.th-deg.de/sg27875/latex

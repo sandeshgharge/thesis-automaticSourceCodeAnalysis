@@ -5,13 +5,13 @@ Thesis Title - Automatic Source Code Analysis
 # AutomaticSourceCodeAnalysis
 Desktop Application designed specifically to get overview of any project which includes 
 
---Number of files
+	- Number of files
 
---Number of lines
+	- Number of lines
 
---Number of code
+	- Number of code
 
---Number of comments
+	- Number of comments
 
 ## Project Start *subcheck*
 

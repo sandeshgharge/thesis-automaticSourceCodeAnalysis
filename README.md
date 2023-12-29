@@ -6,18 +6,11 @@ Thesis Title - Automatic Source Code Analysis
 Desktop Application designed specifically to get overview of any project which includes 
 
 	- Number of files
-
 	- Number of lines
-
 	- Number of code
-
 	- Number of comments
 
-## Project Start *subcheck*
-
-Tool to check submissions of projects of courses
-
-Reads ZIP files from Moodle submissions, extracts the files and applies functions on the files
+This software was designed along with mentorship of Prof. Udo Garmaan, a tool which can help professors evaluate list of projects submitted by students as assignment or projects. Aim of this software is to ease out the effort professor face during evaluation by providing necessary details required for grading. Results can be stored offline in an excel file in the form of grades, comments, etc. and can be used later for reference.
 
 ## Prerequisites: 
 

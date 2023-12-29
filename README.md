@@ -12,6 +12,8 @@ Desktop Application designed specifically to get overview of any project which i
 
 This software was designed along with mentorship of Prof. Udo Garmaan, a tool which can help professors evaluate list of projects submitted by students as assignment or projects. Aim of this software is to ease out the effort professor face during evaluation by providing necessary details required for grading. Results can be stored offline in an excel file in the form of grades, comments, etc. and can be used later for reference.
 
+Please refer User Guide from Report to test the working of the project.
+
 ## Prerequisites: 
 
 Python version 3.10
